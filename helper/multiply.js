@@ -1,3 +1,3 @@
-function mul(){
-    return a*b
+function multiply(){
+    return a/b
 }
